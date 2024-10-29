@@ -1,0 +1,21 @@
+
+#: CcAdminInterace.php:12
+msgid "Changes saved successfully"
+msgstr "Änderungen erfolgreich gespeichert"
+
+#: CcAdminInterface.php:21
+#: cc_wordpress.php:104
+msgid "appcastle.net Settings"
+msgstr "appcastle.net Einstellungen"
+
+#: CcAdminInterface.php:32
+msgid "API activated"
+msgstr "Schnittstelle aktiv"
+
+#: CcAdminInterface.php:32
+msgid "API Token"
+msgstr "Schnittstellen-Token"
+
+#: CcAdminInterface.php:43
+msgid "Save Changes"
+msgstr "Änderungen speichern"

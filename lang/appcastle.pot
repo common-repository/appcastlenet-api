@@ -1,0 +1,20 @@
+
+#: CcAdminInterace.php:12
+msgid "Changes saved successfully"
+msgstr ""
+
+#: CcAdminInterface.php:21
+msgid "appcastle.net Settings"
+msgstr ""
+
+#: CcAdminInterface.php:32
+msgid "API activated"
+msgstr ""
+
+#: CcAdminInterface.php:32
+msgid "API Token"
+msgstr ""
+
+#: CcAdminInterface.php:43
+msgid "Save Changes"
+msgstr ""
